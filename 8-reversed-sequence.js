@@ -6,7 +6,7 @@ const reverseSeq = n => {
         a.push(i);
     }
     return a;
-
+ 
     // return Array(n).fill(0).map((e, i) => n - i );
 };
 

@@ -7,7 +7,7 @@ function solution(str){
     // for (let i = arr.length; i < 0; i--) {
     //     console.log(arr[i]);
     //     res += arr[i];
-    // }
+    // } 
     // return str.split('').reverse().join('');
     return str == '' ? str : str.split('').reduce((a,b) => a = b+a);
 }

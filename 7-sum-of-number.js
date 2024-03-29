@@ -8,7 +8,7 @@ function getSum(a, b){
         for (let i = y+1; i <= z; i++) {
             y+=i;
         }
-    }
+    } 
     return y;
 }
 

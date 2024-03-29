@@ -9,7 +9,7 @@ function filter_list(l) {
     //         x.push(a);
     //     }
     // });
-    // return x;
+    // return x; 
 
     return l.filter((a) => a.toString().match(/^[0-9]+$/) && typeof a === 'number');
 }

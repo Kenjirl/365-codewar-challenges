@@ -9,7 +9,7 @@ function oddOrEven(array) {
     // if (a%2 == 0) {
     //     t = 'even'
     // }
-    // return t;
+    // return t; 
     return array.reduce((a,b) => a+b,0) % 2 ? 'odd' : 'even';
 }
 
