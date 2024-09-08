@@ -15,7 +15,7 @@
 
 | #   | Quiz | Rank |
 | -   | ---- | ---- |
-| 1   | [List Filtering](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)                                                                      | ${\color{C4DAD2}7}$ |
+| 1   | [List Filtering](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)                                                                      | <p style="color : #ecb713">text</p> |
 | 2   | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)                                                                         | ${\color{C4DAD2}7}$ |
 | 3   | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)                                                                          | ${\color{C4DAD2}8}$ |
 | 4   | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)                                                                      | ${\color{C4DAD2}8}$ |
