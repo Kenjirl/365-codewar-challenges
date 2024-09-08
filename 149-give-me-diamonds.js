@@ -1,4 +1,6 @@
+// https://www.codewars.com/kata/5503013e34137eeeaa001648/
 // 17 Agustus 2024
+
 function diamond(n){
     if (n <= 0 || n%2 == 0) return null;
 

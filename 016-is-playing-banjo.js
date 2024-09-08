@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/53af2b8861023f1d88000832
+
 // function areYouPlayingBanjo(name) {
 //     if (name.charAt(0).toLowerCase() === 'r') {
 //         return name+" plays banjo";

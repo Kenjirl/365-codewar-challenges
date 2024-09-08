@@ -2,15 +2,18 @@
 // 17 Mei 2024
 
 function race(v1, v2, g) {
-    if (v1 >= v2) return [-1, -1, -1];
-    
-    const timeInHours = g / (v2 - v1);
-    
-    const hours = Math.floor(timeInHours);
-    const minutes = Math.floor((timeInHours - hours) * 60);
-    const seconds = Math.floor(((timeInHours - hours) * 60 - minutes) * 60);
+    if (v1 >= v2) return null;
+
+    const totalTimeInSeconds = Math.floor((g / (v2 - v1)) * 3600);
+
+    const hours = Math.floor(totalTimeInSeconds / 3600);
+    const minutes = Math.floor((totalTimeInSeconds % 3600) / 60);
+    const seconds = totalTimeInSeconds % 60;
     
     return [hours, minutes, seconds];
+
+    // let time=g/(v2-v1);
+    // return v2>v1 ? [Math.floor(time),Math.floor(time*60%60),Math.floor(time*3600%60)] : null;
 }
 
 console.log(race(720,850,70))
