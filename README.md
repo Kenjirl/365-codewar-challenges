@@ -16,8 +16,8 @@
 | #   | Quiz | Rank |
 | -   | ---- | ---- |
 | 1   | [List Filtering](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)                                                                      | <p style="color : #ecb713">text</p> |
-| 2   | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)                                                                         | ${\color{C4DAD2}7}$ |
-| 3   | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)                                                                          | ${\color{C4DAD2}8}$ |
+| 2   | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)                                                                         | ${\color{blue}7}$ |
+| 3   | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)                                                                          | ${\color{red}8}$ |
 | 4   | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)                                                                      | ${\color{C4DAD2}8}$ |
 | 5   | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)                                                                      | ${\color{C4DAD2}8}$ |
 | 6   | [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)                                                                     | ${\color{C4DAD2}8}$ |
