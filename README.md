@@ -41,7 +41,7 @@
 | 24  | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/solutions/javascript)                           | ${\color{C4DAD2}8}$ |
 | 25  | [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/solutions/javascript)                                   | ${\color{C4DAD2}8}$ |
 | 26  | [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/)                                                                       | ${\color{C4DAD2}8}$ |
-| 27  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/)                                                                          | ${\color{ecb713}6}$ |
+| 27  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/)                                                                          | $${\color{ecb713}6}$$ |
 | 28  | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/)                                                      | ${\color{ecb713}6}$ |
 | 29  | [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)                                                                | ${\color{C4DAD2}7}$ |
 | 30  | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/)                                                          | ${\color{C4DAD2}8}$ |
