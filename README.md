@@ -179,3 +179,4 @@
 | 162 | [Best travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/)                                                                         | ${\color{orange}5}$ |
 | 163 | [Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f/)                                                        | ${\color{lightgreen}8}$ |
 | 164 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/)                                                                  | ${\color{orange}5}$ |
+| 165 | [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/)                                                                  | ${\color{orange}6}$ |
