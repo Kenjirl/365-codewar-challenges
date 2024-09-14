@@ -180,4 +180,5 @@
 | 163 | [Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f/)                                                        | ${\color{lightgreen}8}$ |
 | 164 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/)                                                                  | ${\color{orange}5}$ |
 | 165 | [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/)                                                                  | ${\color{orange}6}$ |
-| 166 | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/)                                                                  | ${\color{lightgreen}7}$ |
+| 166 | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/)                                                                 | ${\color{lightgreen}7}$ |
+| 167 | [Data Reverse](https://www.codewars.com/kata/569d488d61b812a0f7000015/)                                                                        | ${\color{orange}6}$ |
