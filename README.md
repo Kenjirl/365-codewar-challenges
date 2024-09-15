@@ -182,3 +182,23 @@
 | 165 | [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/)                                                                  | ${\color{orange}6}$ |
 | 166 | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114/)                                                                 | ${\color{lightgreen}7}$ |
 | 167 | [Data Reverse](https://www.codewars.com/kata/569d488d61b812a0f7000015/)                                                                        | ${\color{orange}6}$ |
+| 168 | [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212/)                                                                           | ${\color{lightgreen}7}$ |
+| 169 | [Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/)                                                                      | ${\color{lightgreen}8}$ |
+| 170 | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/)                                                                       | ${\color{lightgreen}7}$ |
+| 171 | [Find the vowels](https://www.codewars.com/kata/5680781b6b7c2be860000036/)                                                                     | ${\color{lightgreen}7}$ |
+| 172 | [Bumps in the Road](https://www.codewars.com/kata/57ed30dde7728215300005fa/)                                                                   | ${\color{lightgreen}7}$ |
+| 173 | [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045/)                                                               | ${\color{lightgreen}7}$ |
+| 174 | [Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039/)                                                           | ${\color{lightgreen}8}$ |
+| 175 | [Remove the time](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e/)                                                                     | ${\color{lightgreen}8}$ |
+| 176 | [Multiply the number](https://www.codewars.com/kata/5708f682c69b48047b000e07/)                                                                 | ${\color{lightgreen}8}$ |
+| 177 | [A for Apple](https://www.codewars.com/kata/55de3f83e92c3e521a00002a/)                                                                         | ${\color{orange}6}$ |
+| 178 | [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/)                                                    | ${\color{lightgreen}8}$ |
+| 179 | [Sum of Cubes](https://www.codewars.com/kata/59a8570b570190d313000037/)                                                                        | ${\color{lightgreen}7}$ |
+| 180 | [Two cube sums](https://www.codewars.com/kata/55fd4919ce2a1d7c0d0000f3/)                                                                       | ${\color{orange}6}$ |
+| 181 | [compute cube as sums](https://www.codewars.com/kata/58af1bb7ac7e31b192000020/)                                                                | ${\color{orange}6}$ |
+| 182 | [Sum the nums, sum the sums and sum the nums up to that sum](https://www.codewars.com/kata/60d2325592157c0019ee78ed/)                          | ${\color{orange}6}$ |
+| 183 | [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/)                                                                      | ${\color{lightgreen}8}$ |
+| 184 | [Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/)                                                                | ${\color{lightgreen}7}$ |
+| 185 | [How old will I be in 2099?](https://www.codewars.com/kata/5761a717780f8950ce001473/)                                                          | ${\color{lightgreen}8}$ |
+| 186 | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/)                                                            | ${\color{lightgreen}8}$ |
+| 187 | [Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c/)                                                | ${\color{lightgreen}8}$ |
