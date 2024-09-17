@@ -202,3 +202,7 @@
 | 185 | [How old will I be in 2099?](https://www.codewars.com/kata/5761a717780f8950ce001473/)                                                          | ${\color{lightgreen}8}$ |
 | 186 | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/)                                                            | ${\color{lightgreen}8}$ |
 | 187 | [Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c/)                                                | ${\color{lightgreen}8}$ |
+| 188 | [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/)                                                     | ${\color{orange}6}$ |
+| 189 | [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa/)                                                                      | ${\color{orange}6}$ |
+| 190 | [Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/)                                                                    | ${\color{lightgreen}8}$ |
+| 191 | [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/)                                                               | ${\color{orange}6}$ |
