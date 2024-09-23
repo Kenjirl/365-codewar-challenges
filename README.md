@@ -207,3 +207,5 @@
 | 190 | [Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/)                                                                    | ${\color{lightgreen}8}$ |
 | 191 | [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/)                                                               | ${\color{orange}6}$ |
 | 191 | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055/)                                                                 | ${\color{lightgreen}8}$ |
+| 192 | [Conditional statement--switch](https://www.codewars.com/kata/572059afc2f4612825000d8a/)                                                                 | ${\color{lightgreen}8}$ |
+| 193 | [Number of Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052/)                                                                 | ${\color{lightgreen}7}$ |
